@@ -1,3 +1,5 @@
+*As of right now, this is the first and last release. This respository is likely to be archived and is not expected to be maintained*
+
 # pretty-text
 
 A simple, small utility for coloured console logging
